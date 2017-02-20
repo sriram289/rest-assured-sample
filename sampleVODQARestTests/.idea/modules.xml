@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sampleVODQARestTests.iml" filepath="$PROJECT_DIR$/.idea/modules/sampleVODQARestTests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sampleVODQARestTests_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sampleVODQARestTests_main.iml" group="sampleVODQARestTests" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sampleVODQARestTests_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sampleVODQARestTests_test.iml" group="sampleVODQARestTests" />
+    </modules>
+  </component>
+</project>
